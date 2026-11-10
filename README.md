@@ -43,7 +43,9 @@ Project files
 - "CAD/" – 3D models
 - "PCB/" – PCB design and schematics
 - "Code/" – software and firmware
-- "Images/" – project photos and screenshots
+- "Images/" <img width="672" height="661" alt="Screenshot 2026-11-10 190022" src="https://github.com/user-attachments/assets/c5c17aa3-cb4c-4bfa-8897-00a171a3ed13" />
+
+
 
 Project status
 
