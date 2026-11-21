@@ -28,5 +28,5 @@ Complete list of components required to build **KnightShift**. Items I already o
 
 ## 💰 Total Grant Cost
 
-* **New Parts Total (USD):** **`$50.00`**
-* **New Parts Total (PLN):** **`201.00 zł`**
+* **New Parts Total (USD):** **`49,50 USD,`**
+* **New Parts Total (PLN):** **`199.90 zł`**
