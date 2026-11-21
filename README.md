@@ -60,7 +60,7 @@ Instead of designing a custom PCB, I decided to use ready-made electronic module
 
 ### Electronics documentation
 
-- [KiCad schematic](Schematics/schematic.kicad_sch)
+- [KiCad schematic](Schematics/Kicad_schematic.png)
 - [PDF schematic](Schematics/schematic.pdf)
 
 ## Software
