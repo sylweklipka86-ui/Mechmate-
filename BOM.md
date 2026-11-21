@@ -6,7 +6,7 @@ This document lists the components required to build **KnightShift**, a robotic 
 
 | No. | Component | Specification / Model | Qty | Unit Price (USD) | Total (USD) | Unit Price (PLN) | Total (PLN) | Supplier / Product Link | Purpose |
 |---:|---|---|---:|---:|---:|---:|---:|---|---|
-| 1 | PWM Servo Driver | PCA9685, 16-channel, 12-bit, I2C | 1 | $4.50 | $4.50 | 18.00 zł | 18.00 zł | Add link | Controls servo signals via I2C |
+| 1 | PWM Servo Driver | PCA9685, 16-channel, 12-bit, I2C | 1 | $4.50 | $4.50 | 18.00 zł | 18.00 zł |https://allegro.pl/oferta/pca9685-16-kanalowy-sterownik-serw-12-bit-pwm-i2c-13041186606?offerId=13041186606&inventoryUnitId=BcdPag2dPC5Rfqsn_SjPQQ&adGroupId=ODM0YTVkMTQtMjYwMy00MTgxLTkyMGEtZTgyOTM1MTZlODk1AA&campaignId=NTNkYjBmMWMtODQ0My00MzVkLWEwODMtNDg4Y2EyZWEyMTgxAA&clientId=Nzk3NDY1OTYANzA2NzcxNzgA&sig=79827cae954a972cba71276668f686c1&utm_feed=cba59b59-8d0f-48d0-98a0-e9d1127523e2&utm_source=google&utm_medium=ads&gad_source=1&gad_campaignid=23224962948&gclid=CjwKCAiAn4XYBhA-EiwA8176FaxygAxxOXNVLGv_gqEs8CHUIJQ9yv_pv5c1c1f-NCz1M4uCgyWvJhoCjFwQAvD_BwE  | Controls servo signals via I2C |
 | 2 | High-Torque Servos | MG996R, metal gear, 180° | 2 | $6.00 | $12.00 | 24.00 zł | 48.00 zł | Add link | Base rotation and shoulder joint |
 | 3 | Micro Servos | MG90S, metal gear, 180° | 4 | $3.50 | $14.00 | 14.00 zł | 56.00 zł | Add link | Upper arm, wrist and gripper |
 | 4 | Power Supply | 6V, 5A DC adapter, 5.5 × 2.1 mm | 1 | $11.00 | $11.00 | 45.00 zł | 45.00 zł | Add link | Dedicated servo power supply |
