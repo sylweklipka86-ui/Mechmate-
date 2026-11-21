@@ -22,4 +22,22 @@ These components are already available and are excluded from the grant budget.
 | No. | Component | Specification | Qty | Cost to Grant | Purpose |
 |---:|---|---|---:|---:|---|
 | 9 | Microcontroller | ESP32-S3-DevKitC-1 (USB-C) | 1 | $0.00 | Main controller |
-| 10 | Wiring | Power wires and jumper cables | 1 set | $0.00 | Electrical
+| 10 | Wiring | Power wires and jumper cables | 1 set | $0.00 | Electrical connections |
+| 11 | 3D Printing Equipment | 3D printer and PLA/PETG filament | 1 set | $0.00 | Manufacturing mechanical parts |
+| 12 | Camera and Chessboard | USB webcam and physical chess set | 1 set | $0.00 | Chessboard monitoring and testing |
+
+## 💰 Total Grant Cost
+
+- **New Parts Total (USD): $49.50**
+- **New Parts Total (PLN): 199.00 zł**
+
+*Prices are preliminary estimates and may change depending on the supplier.*
+
+## ⚠️ Technical Notes
+
+- The PCA9685 communicates with the ESP32-S3 through I2C.
+- The PCA9685 generates servo control signals; servos require a separate power supply.
+- The ESP32-S3 and servo controller must share a common ground with the servo power supply.
+- The capacitor is connected across the servo power rail (V+ and GND), with correct polarity.
+- The power supply current capacity and fuse rating must be verified against the actual servo specifications before assembly.
+- Exact fastener and bearing dimensions will be finalized according to the mechanical design.
