@@ -10,8 +10,8 @@ Purchase,7,Fuse Holder and Fuse,"Inline fuse holder with 5A fast 5x20mm glass fu
 Purchase,8,Electrolytic Capacitor,"1000uF 16V Low ESR",1,0.50,0.50,2.00,2.00,,Stabilization of servo power rail
 Purchase,9,Ball Bearing,"Codex 608-2RS, 8x22x7mm",3,0.45,1.35,1.79,5.37,https://allegro.pl/produkt/lozysko-kulkowe-608-2rs-codex-msc-8x22x7mm-c4c29107-10fb-43ba-,Mechanical support for rotating joints
 Purchase,10,DC-DC Converter,"MP1584EN step-down module, adjusted to 5V",1,0.97,0.97,3.89,3.89,https://allegro.pl/produkt/przetwornica-mikrobot-przetwornica-dc-dc-step-down-lm2596-3a-mp1584-a19fd948-9505-47b3-bdbd-682e18b08bc7?offerId=11435525367,5V ESP32-S3 power supply
-Owned,11,Microcontroller,"ESP32-S3-DevKitC-1",1,,,,,Main controller
-Owned,12,Wiring,"Jumper wires and power wiring",1,,,,,Electrical connections
-Owned,13,3D Printing Equipment,"3D printer and PLA/PETG filament",1,,,,,Mechanical parts
-Owned,14,Camera and Chessboard,"Camera and chessboard",1,,,,,Board and piece recognition
+Owned,11,Microcontroller,"ESP32-S3-DevKitC-1",1,,,,,,Main controller
+Owned,12,Wiring,"Jumper wires and power wiring",1,,,,,,Electrical connections
+Owned,13,3D Printing Equipment,"3D printer and PLA/PETG filament",1,,,,,,Mechanical parts
+Owned,14,Camera and Chessboard,"Camera and chessboard",1,,,,,,Board and piece recognition
 Subtotal (priced items),,,,,,45.74,,182.95,,
