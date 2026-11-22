@@ -9,9 +9,9 @@ Purchase,6,DC Power Jack,"Panel mount 5.5x2.5mm DC socket",1,0.90,0.90,3.60,3.60
 Purchase,7,Inline Fuse Holder with Fuse,"5A fast glass fuse, 20mm, with 80mm wires",1,1.15,1.15,4.59,4.59,https://allegro.pl/produkt/gniazdo-z-kablem-bezpiecznik-szklany-20mm-5a-ab1e9404-26f2-411f-ac7f-aae9e226824b,Protection of the 6V servo power line
 Purchase,8,Electrolytic Capacitor,"1000uF 16V Low ESR 10x17mm",1,0.50,0.50,2.00,2.00,https://allegro.pl/produkt/kondensator-low-esr-1000uf-16v-10x17mm-dbd8ec34-cd13-4886-9130-d7e75c8e5fea?offerId=10438412601,Power supply filtering for servo rail
 Purchase,9,Ball Bearing,"Codex 608-2RS 8x22x7mm",3,0.45,1.35,1.79,5.37,https://allegro.pl/produkt/lozysko-kulkowe-608-2rs-codex-msc-8x22x7mm-c4c29107-10fb-43ba-8fe6-d50bc3b5240f?offerId=18468917202,Support for J2 J3 and base rotation
-Purchase,10,DC-DC Buck Converter,"MP1584 adjustable step-down module, 12V input to 5V output",1,,,,,,5V power supply for ESP32-S3
+Purchase,10,DC-DC Buck Converter,"MP1584EN step-down module, adjusted to 5V",1,0.97,0.97,3.89,3.89,https://allegro.pl/produkt/przetwornica-mikrobot-przetwornica-dc-dc-step-down-lm2596-3a-mp1584-a19fd948-9505-47b3-bdbd-682e18b08bc7,Converts 12V input to 5V ESP32-S3 supply
 Owned,11,Microcontroller,"ESP32-S3-DevKitC-1 USB-C",1,0.00,0.00,0.00,0.00,,Main controller
 Owned,12,Wiring,"Power wires and jumper cables",1 set,0.00,0.00,0.00,0.00,,Electrical connections
 Owned,13,3D Printing Equipment,"3D printer and PLA/PETG filament",1 set,0.00,0.00,0.00,0.00,,Manufacturing mechanical parts
 Owned,14,Camera and Chessboard,"USB webcam and physical chess set",1 set,0.00,0.00,0.00,0.00,,Chessboard monitoring and testing
-Subtotal (priced items),,,,,,45.36,,181.36,,
+Subtotal (priced items),,,,,,46.33,,185,25,,
