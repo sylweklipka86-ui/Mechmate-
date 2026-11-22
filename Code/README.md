@@ -1,4 +1,4 @@
-# Chess software
+ Chess software
 
 This folder contains the computer-vision and chess-game scripts for KnightShift.
 
@@ -18,6 +18,8 @@ This folder contains the computer-vision and chess-game scripts for KnightShift.
 - Stockfish for choosing the robot's chess moves.
 
 ## Setup
+
+For step-by-step Windows instructions in Polish, see [INSTALACJA.md](./INSTALACJA.md).
 
 Install the Python packages:
 
