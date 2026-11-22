@@ -61,7 +61,7 @@ Instead of designing a custom PCB, I decided to use ready-made electronic module
 ### Electronics documentation
 
 - [KiCad schematic](Schematics/KngihtSHift.kicad.kicad_sch)
-- [PDF schematic](Schematics/schematic.pdf)
+- [PDF schematic](Schematics/KngihtSHift.kicad.pdf)
 
 ## Software
 
