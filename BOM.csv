@@ -1,15 +1,17 @@
+
 Section,No.,Component,Specification / Model,Qty,Unit Price (USD),Total (USD),Unit Price (PLN),Total (PLN),Supplier / Product Link,Purpose
 Purchase,1,PWM Servo Driver,"PCA9685, 16-channel, 12-bit, I2C",1,4.50,4.50,18.00,18.00,https://allegro.pl/produkt/modul-pca9685-16-kanalowy-sterownik-pwm-e6a3243d-c1aa-4160-ab1f-452d08878b38?offerId=13171302810,Controls servo signals via I2C
-Purchase,2,High-Torque Servos,"MG996R, metal gear, 180°",3,6.00,18.00,24.00,72.00,https://allegro.pl/produkt/serwo-cyfrowe-mg996r-55g-13kg-cm-high-quality-e9413f44-3a83-429b-83c0-ee7efa5cabde,Base rotation and shoulder joint
-Purchase,3,Micro Servos,"MG90S, metal gear, 180°",2,3.50,7.00,14.00,28.00,https://allegro.pl/produkt/serwo-mg90s-towerpro-metalowe-zebatki-orczyki-4c80906e-e17e-43d0-846f-e3367044a8e9,Upper arm wrist and gripper
-Purchase,4,Power Supply,"Delta 12V 3A DC adapter",1,9.73,9.73,38.90,38.90,https://allegro.pl/produkt/zasilacz-impulsowy-delta-12v-3a-5-5-a14e90b1-6864-4d5e-9acb-54e7e9a6e185?offerId=17257333680,Input power for the servo supply converter
-Purchase,5,DC-DC Buck Converter,XL4015 step-down 5A,1,2.23,2.23,8.90,8.90,https://allegro.pl/produkt/przetwornica-xl4015-step-down-5a-1-25v-36v-dc-dc-1d60ca70-1d2d-49a7-a0aa-a27b357f53c2?offerId=11973623267,Converts 12V input to 6V servo supply
-Purchase,6,DC Power Jack,Panel mount 5.5x2.5mm DC socket,1,0.90,0.90,3.60,3.60,https://allegro.pl/produkt/gniazdo-dc-2-5-5-5-przykrecane-do-obudowy-1919-243038e7-1c18-49fb-a264-2127a3c757c7?offerId=7516796156,12V power input for KnightShift
-Purchase,7,Inline Fuse Holder with Fuse,5A fast glass fuse 20mm with 80mm wires,1,1.15,1.15,4.59,4.59,https://allegro.pl/produkt/gniazdo-z-kablem-bezpiecznik-szklany-20mm-5a-ab1e9404-26f2-411f-ac7f-aae9e226824b?offerId=13181041595,12V input line protection
-Purchase,8,Electrolytic Capacitor,1000uF 16V Low ESR 10x17mm,1,0.50,0.50,2.00,2.00,https://allegro.pl/produkt/kondensator-low-esr-1000uf-16v-10x17mm-dbd8ec34-cd13-4886-9130-d7e75c8e5fea?offerId=10438412601,Power supply filtering for servo rail
-Purchase,9,Ball Bearing,Codex 608-2RS 8x22x7mm,3,0.45,1.35,1.79,5.37,https://allegro.pl/produkt/lozysko-kulkowe-608-2rs-codex-msc-8x22x7mm-c4c29107-10fb-43ba-8fe6-d50bc3b5240f?offerId=18468917202,"Support for J2, J3 and base rotation"
-Owned,10,Microcontroller,ESP32-S3-DevKitC-1 USB-C,1,0.00,0.00,0.00,0.00,,Main controller
-Owned,11,Wiring,Power wires and jumper cables,1 set,0.00,0.00,0.00,0.00,,Electrical connections
-Owned,12,3D Printing Equipment,3D printer and PLA/PETG filament,1 set,0.00,0.00,0.00,0.00,,Manufacturing mechanical parts
-Owned,13,Camera and Chessboard,USB webcam and physical chess set,1 set,0.00,0.00,0.00,0.00,,Chessboard monitoring and testing
-TOTAL,,,,,,45.36,,181.36,,
+Purchase,2,High-Torque Servos,"MG996R, metal gear, 180°",3,6.00,18.00,24.00,72.00,https://allegro.pl/produkt/serwo-cyfrowe-mg996r-55g-13kg-cm-high-quality-e9413f44-3a83-429b-83c0-ee7efa5cabde, J1 base rotation; J2 shoulder; J3 elbow
+Purchase,3,Micro Servos,"MG90S, metal gear, 180°",2,3.50,7.00,14.00,28.00,https://allegro.pl/produkt/serwo-mg90s-towerpro-metalowe-zebatki-orczyki-4c80906e-e17e-43d0-846f-e3367044a8e9,J4 wrist and gripper
+Purchase,4,Power Supply,"Delta 12V 3A DC adapter",1,9.73,9.73,38.90,38.90,https://allegro.pl/produkt/zasilacz-impulsowy-delta-12v-3a-5-5-a14e90b1-6864-4d5e-9acb-54e7e9a6e185?offerId=17257333680,Main 12V power input
+Purchase,5,DC-DC Buck Converter,"XL4015 step-down module, adjusted to 6V",1,2.23,2.23,8.90,8.90,https://allegro.pl/produkt/przetwornica-xl4015-step-down-5a-1-25v-36v-dc-dc-1d60ca70-1d2d-49a7-a0aa-a27b357f53c2?offerId=11973623267,Converts 12V input to 6V servo supply
+Purchase,6,DC Power Jack,"Panel mount 5.5x2.5mm DC socket",1,0.90,0.90,3.60,3.60,https://allegro.pl/produkt/gniazdo-dc-2-5-5-5-przykrecane-do-obudowy-1919-243038e7-1c18-49fb-a264-2127a3c757c7?offerId=7516796156,12V power input for KnightShift
+Purchase,7,Inline Fuse Holder with Fuse,"5A fast glass fuse, 20mm, with 80mm wires",1,1.15,1.15,4.59,4.59,https://allegro.pl/produkt/gniazdo-z-kablem-bezpiecznik-szklany-20mm-5a-ab1e9404-26f2-411f-ac7f-aae9e226824b,Protection of the 6V servo power line
+Purchase,8,Electrolytic Capacitor,"1000uF 16V Low ESR 10x17mm",1,0.50,0.50,2.00,2.00,https://allegro.pl/produkt/kondensator-low-esr-1000uf-16v-10x17mm-dbd8ec34-cd13-4886-9130-d7e75c8e5fea?offerId=10438412601,Power supply filtering for servo rail
+Purchase,9,Ball Bearing,"Codex 608-2RS 8x22x7mm",3,0.45,1.35,1.79,5.37,https://allegro.pl/produkt/lozysko-kulkowe-608-2rs-codex-msc-8x22x7mm-c4c29107-10fb-43ba-8fe6-d50bc3b5240f?offerId=18468917202,Support for J2 J3 and base rotation
+Purchase,10,DC-DC Buck Converter,"MP1584 adjustable step-down module, 12V input to 5V output",1,,,,,,5V power supply for ESP32-S3
+Owned,11,Microcontroller,"ESP32-S3-DevKitC-1 USB-C",1,0.00,0.00,0.00,0.00,,Main controller
+Owned,12,Wiring,"Power wires and jumper cables",1 set,0.00,0.00,0.00,0.00,,Electrical connections
+Owned,13,3D Printing Equipment,"3D printer and PLA/PETG filament",1 set,0.00,0.00,0.00,0.00,,Manufacturing mechanical parts
+Owned,14,Camera and Chessboard,"USB webcam and physical chess set",1 set,0.00,0.00,0.00,0.00,,Chessboard monitoring and testing
+Subtotal (priced items),,,,,,45.36,,181.36,,
