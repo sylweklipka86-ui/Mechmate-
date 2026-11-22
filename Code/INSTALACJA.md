@@ -72,7 +72,7 @@ program — czarny ruch trzeba wykonać ręcznie. Kamera powinna go wykryć.
 Podgląd i rozpoznawanie figur z kamerki:
 
 ```powershell
-python ".\# Rozpoznawanie figur szachowych ze zdję.py" --camera --model .\models\best.pt --orientation black
+python ".\# Rozpoznawanie figur szachowych ze zdjęcia.py" --camera --model .\models\best.pt --orientation black
 ```
 
 Oznaczanie nowych zdjęć:
