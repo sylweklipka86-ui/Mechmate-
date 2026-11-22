@@ -103,7 +103,7 @@ I am currently working on the electronics documentation and integrating the mech
 
 
 
-
+- Print 3d parts and assemble the arm:)
 - Connect the robotic arm with the chess software.
 - Calibrate the arm and test physical chess moves.
 
