@@ -101,9 +101,9 @@ I am currently working on the electronics documentation and integrating the mech
 
 ### Next Steps
 
-- Finish the mechanical design.
-- Complete the KiCad wiring schematic.
-- Prepare the electronics and power connections.
+
+
+
 - Connect the robotic arm with the chess software.
 - Calibrate the arm and test physical chess moves.
 
