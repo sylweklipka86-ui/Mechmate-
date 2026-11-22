@@ -5,7 +5,7 @@ This folder contains the computer-vision and chess-game scripts for KnightShift.
 ## What the scripts do
 
 - `wykrywaj_ruchy.py` reads a physical chessboard from a camera, tracks legal moves, and asks Stockfish to suggest Black's reply. The robotic arm is not controlled by this script yet.
-- `# Rozpoznawanie figur szachowych ze zdję.py` detects and labels chess pieces in a camera image or a saved photo.
+- `# Rozpoznawanie figur szachowych ze zdjęcia.py` detects and labels chess pieces in a camera image or a saved photo.
 - `oznacz_szachy.py` is a small tool for annotating chess-piece images for YOLO training.
 - `Uruchom szachy.bat` starts the game-tracking script on Windows.
 
