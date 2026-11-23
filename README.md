@@ -43,7 +43,7 @@ The robotic arm is designed in FreeCAD and will be mainly 3D-printed.
 The gripper has been physically tested and successfully lifted a chess piece.
 
 ![Gripper lifting a chess piece](Images/gripper_test.jpg)
-
+(Images/asamble2.png)
 ## Electronics
 
 The robot will use an ESP32 development board as its main controller.
